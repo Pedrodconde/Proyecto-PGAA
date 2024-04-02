@@ -12,8 +12,8 @@ El código proporcionado en este repositorio incluye un script Python (`app.py`)
 Para ejecutar la aplicación localmente, sigue estos pasos:
 
 1. Clona este repositorio en tu ordenador:
-
-https://github.com/Pedrodconde/Proyecto-PGAA
+   
+https://github.com/Pedrodconde/Proyecto-PGAA.git
 
 
 2. Ejecuta el script `app.py`.
