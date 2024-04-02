@@ -13,7 +13,7 @@ Para ejecutar la aplicación localmente, sigue estos pasos:
 
 1. Clona este repositorio en tu ordenador:
 
-
+https://github.com/Pedrodconde/Proyecto-PGAA
 
 
 2. Ejecuta el script `app.py`.
